@@ -1,8 +1,8 @@
 # Unplugged: A Smart Toaster's Breakup Line
 
-[![make.fun](https://make.fun/badge/competition/u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92)](https://make.fun/c/u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92)
-[![make.fun rank](https://make.fun/badge/rank/cryptokom-tech/unplugged-smart-toaster-breakup)](https://make.fun/c/u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92)
-[![make.fun reward](https://make.fun/badge/reward/cryptokom-tech/unplugged-smart-toaster-breakup)](https://make.fun/c/u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92)
+[![make.fun · u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92](https://make.fun/badge/u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92.svg)](https://make.fun/bounty/u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92?utm_source=github&utm_medium=readme&utm_campaign=u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92)
+[![rank](https://make.fun/badge/u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92/cryptokom-tech/unplugged-smart-toaster-breakup/rank.svg)](https://make.fun/bounty/u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92)
+[![reward](https://make.fun/badge/u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92/cryptokom-tech/unplugged-smart-toaster-breakup/reward.svg)](https://make.fun/bounty/u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92?utm_source=github&utm_medium=readme&utm_campaign=u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92)
 
 Entry for the [make.fun bounty "Unplugged: A Smart Toaster's Breakup Line"](https://make.fun/c/u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92) (pot $2.00, top 8 paid, deadline 26 Nov 2026 21:35 WIB).
 
