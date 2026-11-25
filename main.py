@@ -26,11 +26,21 @@ def main() -> int:
         print("entry must be a single non-whitespace-only line", file=sys.stderr)
         return 1
     out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
+    if not out_dir:
+        print("MAKEFUN_OUTPUT_DIR is set but empty", file=sys.stderr)
+        return 1
     os.makedirs(out_dir, exist_ok=True)
     path = os.path.join(out_dir, "entry.txt")
+    if os.path.isdir(path):
+        print(f"{path} is a directory, cannot write entry.txt", file=sys.stderr)
+        return 1
     data = LINE.encode("utf-8")
-    with open(path, "wb") as f:
-        f.write(data)
+    try:
+        with open(path, "wb") as f:
+            f.write(data)
+    except OSError as exc:
+        print(f"cannot write {path}: {exc}", file=sys.stderr)
+        return 1
     with open(path, "rb") as f:
         back = f.read()
     if back != data:
